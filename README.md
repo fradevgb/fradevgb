@@ -3,6 +3,7 @@
 <p><em>Junior Web Developer
 </em></p> 
 
+## About me in code
 ```javascript
 const fradevgb = {
   code: [HTML, CSS,JavaScript,Java],
@@ -11,7 +12,7 @@ const fradevgb = {
 
 <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludame <b> estaré feliz de conocerte más!</b> :)</em>
 
-You can find me 🌎:
+## You can find me 🌎:
 - [Twitter](https://twitter.com/fradevgb)
 <!--
 **fradevgb/fradevgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
