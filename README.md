@@ -6,7 +6,7 @@
 ## About me in code
 ```javascript
 const fradevgb = {
-  code: [HTML, CSS,JavaScript,Java],
+  code: [HTML, CSS, JavaScript, Java],
   tools: [React]
 ```
 ## You can find me 🌎:
