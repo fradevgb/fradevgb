@@ -5,7 +5,7 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
 
 <h3 align="left">🌐 Socials</h3>
-<p align="left"> <a href="https://www.github.com/fradevgb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/fradevgb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fradevgb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.twitter.com/fradevgb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fradevgb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.github.com/fradevgb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  </p>
 
 <h3 align="left">💻 Skills</h3>
 <p align="left">
