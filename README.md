@@ -24,5 +24,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=fradevgb&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)<br/>
 
 <h3 align="left"></h3>
-<img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>😊
 
