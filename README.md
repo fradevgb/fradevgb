@@ -20,8 +20,8 @@
 
 <h3 align="left">📈 GitHub Statistics</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fradevgb&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440)<br/>
-![](https://github-readme-stats.vercel.app/api?username=fradevgb&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fradevgb&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=fradevgb&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)<br/>
 
 <h3 align="left"></h3>
 <img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>😊
